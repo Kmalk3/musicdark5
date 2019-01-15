@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= 9
+game= 9play | Last Music
+stayinchannel=true
+songinstatus=true 
+token=NTM0NzQ3NzUyMDU2MzU2ODY0.Dx-GQQ.UkOqMG4n6wCXnVRZYqpmWBNyn8s
+owner=512626606301249556
